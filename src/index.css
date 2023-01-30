@@ -1,0 +1,53 @@
+.main_div{
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+}
+
+.center_div{
+  background-color: rgb(245, 153, 184);
+  height: 500px;
+  width: 400px;
+  text-align: center;
+}
+h1{
+  font-family: cursive;
+}
+input{
+  margin: 10px;
+  background-color: bisque;
+  font-size: 20px;
+  padding: 10px;
+
+  
+}
+.btn{
+  font-size: 20px;
+  padding: 10px;
+
+  background-color: rgb(119, 190, 13);
+}
+ol{
+  list-style: none;
+}
+li{
+  display: flex;
+  background-color: white;
+  padding: 5px;
+  font-size: 20px;
+  margin: 10px;
+  margin-right: 30px;
+}
+
+li .btn2{
+  display: flex;
+  justify-content: flex-start;
+  background-color: rgb(236, 109, 109);
+  margin-right: 10px;
+  border-radius: 50%;
+
+
+}
+
